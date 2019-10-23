@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547210973 source:c:\users\tibi\desktop\info\nim\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	<dos.h>
+	<windows.h>
+
+1551495860 source:e:\stuff\info\nim\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	<dos.h>
+	<windows.h>
+
